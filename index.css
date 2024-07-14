@@ -1,0 +1,23 @@
+#ra{
+    color: rgb(0, 0, 255);
+  
+}
+h5 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+#title {
+    border: 5px dashed silver
+}
+. p {
+    color: red;
+}  
+* {
+	font-family: roboto;
+	
+}
+.inpt{
+    color: green;
+
+}
